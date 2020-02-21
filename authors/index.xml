@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Wei&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,47 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>Wei Li is now a Ph.D. student at FLARE LAB advised by Prof. Xiaopei Liu. Wei received his B.S. degree in computer science from Northwestern Polytechnical University, Shaanxi, China in 2015.
 He is interested in making virtual worlds with computer, and more specifically in the area of computer graphics, physically-based animation, computational physics, scientific computing, rendering, and artificial intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Daoming Liu</title>
+      <link>/authors/daoming-liu/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daoming-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jin Huang</title>
+      <link>/authors/jin-huang/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jin-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathieu Desbrun</title>
+      <link>/authors/mathieu-desbrun/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mathieu-desbrun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaopei Liu</title>
+      <link>/authors/xiaopei-liu/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaopei-liu/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -27,15 +63,6 @@ He is interested in making virtual worlds with computer, and more specifically i
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/kai-bai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaopei Liu</title>
-      <link>/authors/xiaopei-liu/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/xiaopei-liu/</guid>
       <description></description>
     </item>
     

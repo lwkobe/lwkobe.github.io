@@ -6,10 +6,19 @@
     <description>Recent content on Wei&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kinetic-based Multiphase Flow Simulation</title>
+      <link>/publication/journal-article2020/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article2020/</guid>
+      <description>IEEE Transactions on Visualization and Computer Graphics (TVCG), accepted for publication, 2020. (CCF-A journal)</description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -22,10 +31,10 @@
     
     <item>
       <title>Continuous-Scale Kinetic Fluid Simulation</title>
-      <link>/publication/journal-article/</link>
+      <link>/publication/journal-article2018/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/</guid>
+      <guid>/publication/journal-article2018/</guid>
       <description>IEEE Transactions on Visualization and Computer Graphics (TVCG), accepted for publication, 2018. (CCF-A journal)</description>
     </item>
     
@@ -41,7 +50,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>Wei Li is now a Ph.D. student at FLARE LAB advised by Prof. Xiaopei Liu. Wei received his B.S. degree in computer science from Northwestern Polytechnical University, Shaanxi, China in 2015.
